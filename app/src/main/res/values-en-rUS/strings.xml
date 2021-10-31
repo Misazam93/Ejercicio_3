@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise_3</string>
+    <string name="Texto2">" Enter the position to search"</string>
+    <string name="Texto1">Find your prime number</string>
+    <string name="Texto3">"The prime number you are looking for is ... "</string>
+    <string name="boton">Calculate</string>
+    <string name="toast">Calculated...</string>
+</resources>

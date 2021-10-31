@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercici_3</string>
+    <string name="Texto2">Introdueix la posició a cercar</string>
+    <string name="Texto1">Troba el teu nombre primer</string>
+    <string name="Texto3">" El nombre primer que busques és..."</string>
+    <string name="boton">Calcular</string>
+    <string name="toast">Calculant...</string>
+</resources>
